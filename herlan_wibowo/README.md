@@ -1,5 +1,6 @@
-# herlan_wibowo
-
+# Nama : Herlan Wibowo
+# NIM : 312210324
+# Kelas : TI 22 A3
 A new Flutter project.
 
 ## Getting Started
